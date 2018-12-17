@@ -7,7 +7,7 @@ export class Provider extends Component {
     contacts: [
       {
         id: 1,
-        name: "Bad mthfkr",
+        name: "Bob Mill",
         email: "bm@gmail.com",
         phone: "333-333-3333"
       },
