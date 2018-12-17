@@ -7,8 +7,8 @@ export class Provider extends Component {
     contacts: [
       {
         id: 1,
-        name: "Bad Boy",
-        email: "bb@gmail.com",
+        name: "Bad mthfkr",
+        email: "bm@gmail.com",
         phone: "333-333-3333"
       },
       {
@@ -19,8 +19,8 @@ export class Provider extends Component {
       },
       {
         id: 3,
-        name: "Storm Fella",
-        email: "SF@gmail.com",
+        name: "Big Head",
+        email: "bh@gmail.com",
         phone: "111-111-4444"
       }
     ]
